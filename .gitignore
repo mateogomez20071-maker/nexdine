@@ -1,0 +1,12 @@
+# Variables de entorno
+.env
+
+# Compilación de Maven
+target/
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

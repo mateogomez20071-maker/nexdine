@@ -15,7 +15,8 @@
             "name": "RestaurantApplication",
             "request": "launch",
             "mainClass": "com.restaurant.app.RestaurantApplication",
-            "projectName": "app"
+            "projectName": "app",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
